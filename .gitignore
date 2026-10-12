@@ -1,0 +1,13 @@
+# Screenshot
+screenshot
+
+# Kredensial
+.env
+.env.*
+*.key
+*.pem
+
+# Berkas sistem / arsip
+.DS_Store
+Thumbs.db
+*.zip
